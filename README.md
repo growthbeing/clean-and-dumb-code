@@ -22,4 +22,6 @@ Here are some tips to help you write clean and dumb code quickly:
 
 - Keep in mind the principle of KISS (Keep It Simple and Stupid)
 
-Remember that writing clean and dumb code quickly is a balancing act between simplicity and functionality. By following these tips, you should be able to write code that is easy to understand, maintain, and modify, without sacrificing performance or scalability.
+Remember that **```writing clean and dumb code quickly is a balancing act between simplicity and functionality```**. 
+
+By following these tips, you should be able to write code that is easy to understand, maintain, and modify, without sacrificing performance or scalability.
